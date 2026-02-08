@@ -87,7 +87,7 @@
 
 <div id="timeline" class="hidden">
   <h1>Our Love Story 📖</h1>
-  <img src="PHOTO_URL" class="photo" alt="Us together" />
+  <img src="<img src="https://raw.githubusercontent.com/your-kadamparth90-lgtm/pranjal-love/main/photo.jpg" class="photo" alt="Us together" />
 
   <div class="timeline">
     <div class="moment">✨ The day I first saw you… my world changed.</div>
@@ -197,3 +197,4 @@
     }
   </script></body>
 </html>
+
